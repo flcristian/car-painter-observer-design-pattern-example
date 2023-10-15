@@ -1,0 +1,14 @@
+D:\mycode\csharp\design-patterns\car-painter-observer-pattern-example\car-painter-observer-pattern-example\bin\Debug\net7.0\car-painter-observer-pattern-example.exe
+D:\mycode\csharp\design-patterns\car-painter-observer-pattern-example\car-painter-observer-pattern-example\bin\Debug\net7.0\car-painter-observer-pattern-example.deps.json
+D:\mycode\csharp\design-patterns\car-painter-observer-pattern-example\car-painter-observer-pattern-example\bin\Debug\net7.0\car-painter-observer-pattern-example.runtimeconfig.json
+D:\mycode\csharp\design-patterns\car-painter-observer-pattern-example\car-painter-observer-pattern-example\bin\Debug\net7.0\car-painter-observer-pattern-example.dll
+D:\mycode\csharp\design-patterns\car-painter-observer-pattern-example\car-painter-observer-pattern-example\bin\Debug\net7.0\car-painter-observer-pattern-example.pdb
+D:\mycode\csharp\design-patterns\car-painter-observer-pattern-example\car-painter-observer-pattern-example\obj\Debug\net7.0\car-painter-observer-pattern-example.GeneratedMSBuildEditorConfig.editorconfig
+D:\mycode\csharp\design-patterns\car-painter-observer-pattern-example\car-painter-observer-pattern-example\obj\Debug\net7.0\car-painter-observer-pattern-example.AssemblyInfoInputs.cache
+D:\mycode\csharp\design-patterns\car-painter-observer-pattern-example\car-painter-observer-pattern-example\obj\Debug\net7.0\car-painter-observer-pattern-example.AssemblyInfo.cs
+D:\mycode\csharp\design-patterns\car-painter-observer-pattern-example\car-painter-observer-pattern-example\obj\Debug\net7.0\car-painter-observer-pattern-example.csproj.CoreCompileInputs.cache
+D:\mycode\csharp\design-patterns\car-painter-observer-pattern-example\car-painter-observer-pattern-example\obj\Debug\net7.0\car-painter-observer-pattern-example.dll
+D:\mycode\csharp\design-patterns\car-painter-observer-pattern-example\car-painter-observer-pattern-example\obj\Debug\net7.0\refint\car-painter-observer-pattern-example.dll
+D:\mycode\csharp\design-patterns\car-painter-observer-pattern-example\car-painter-observer-pattern-example\obj\Debug\net7.0\car-painter-observer-pattern-example.pdb
+D:\mycode\csharp\design-patterns\car-painter-observer-pattern-example\car-painter-observer-pattern-example\obj\Debug\net7.0\car-painter-observer-pattern-example.genruntimeconfig.cache
+D:\mycode\csharp\design-patterns\car-painter-observer-pattern-example\car-painter-observer-pattern-example\obj\Debug\net7.0\ref\car-painter-observer-pattern-example.dll
